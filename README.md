@@ -1,8 +1,5 @@
 ### Olá! Eu sou a Aléxia Cazale 👋
 
-- 🔭 Sou uma desenvolvedor front-end.
-- 🌱 Atualmente estou apenas estudando na Fatec Jahu.
-
 <div>
   <a href = "https://github.com/AlexiaCazale">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AlexiaCazale&show_icons=true&theme=radical">
