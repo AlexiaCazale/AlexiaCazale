@@ -1,11 +1,14 @@
-### Olá! Eu sou a Aléxia Cazale 👋
 
+### Olá! Eu sou a Aléxia Cazale 👋
+<br>
 <div>
   <a href = "https://github.com/AlexiaCazale">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AlexiaCazale&show_icons=true&theme=radical">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=compact&langs_count&theme=radical">
 </div>
 
+
+### Minhas Linguagens 👀
 <div style="display: inline_block"><br>
   <img align="center" alt="Ale-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
