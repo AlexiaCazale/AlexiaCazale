@@ -2,8 +2,7 @@
 ### Olá! Eu sou a Aléxia Cazale 👋
 <div>
   <a href = "https://github.com/AlexiaCazale">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AlexiaCazale&show_icons=true&theme=radical">
-  
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=5&theme=radical">
 </div>
 
 
