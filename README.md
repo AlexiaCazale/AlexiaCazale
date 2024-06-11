@@ -13,7 +13,6 @@
   <img align="center" alt="Ale-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ale-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ale-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Ale-sqlyog" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlyog/sqlyog-original.svg">
   <img align="center" alt="Ale-figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   
 </div>
