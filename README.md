@@ -10,8 +10,8 @@
 
 <br>
 
-<h3 style="text-align: center;">Minhas Habilidades 👀 </h3>
-<div style="align-items: center;" align="center"><br>
+ ### Minhas Habilidades 👀
+<div style="align-items: left;" align="left"><br>
   <img align="left" alt="Ale-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="Ale-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="left" alt="Ale-php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
