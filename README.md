@@ -10,6 +10,7 @@
  ##
   
   ### Minhas Habilidades 👀
+<img height="190px" align="right" src="./src/img.gif" alt="gif">
 <div style="align-items: center;" align="center"><br>
   <img align="left" alt="Ale-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="Ale-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -20,12 +21,10 @@
   <img align="left" alt="Ale-CSS" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="left" alt="Ale-figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="left" alt="Ale-photoshop" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
-  <img height="190px" align="right" src="./src/img.gif" alt="gif">
 </div>
-  
- ##
 
 <br><br><br><br><br>
+ ##
  
 <div style="align-items: center;" align="center"> 
   <a href="https://instagram.com/alexiarc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
