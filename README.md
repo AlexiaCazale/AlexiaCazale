@@ -4,12 +4,12 @@
 </div>
 
 
-  <img height="200cm"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=6&theme=radical">
+  <img height="200cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=6&theme=radical">
   <img height="190px"  align="right" src="./src/img.gif" alt="gif">
 
   
   ### Minhas Habilidades 👀
-<div style="display: inline_block"><br>
+<div style="align-items: center;" align="center"><br>
   <img align="center" alt="Ale-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ale-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ale-php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
