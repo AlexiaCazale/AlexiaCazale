@@ -8,7 +8,9 @@
   <img height="190px" src="./src/img.gif" alt="">
 </div>
 
-<br>
+  ##
+
+ <br>
 
  ### Minhas Habilidades 👀
 <div style="align-items: left;" align="left"><br>
@@ -24,6 +26,8 @@
 </div>
 
  ##
+
+ <br>
  
 <div style="align-items: center;" align="center"> 
   <a href="https://instagram.com/alexiarc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
