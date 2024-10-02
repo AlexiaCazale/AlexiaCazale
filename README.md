@@ -8,8 +8,7 @@
   <img height="190px" src="./src/img.gif" alt="">
 </div>
 
-
-<br><br><br><br>
+<br>
  ##
   
   ### Minhas Habilidades 👀
@@ -25,7 +24,7 @@
   <img align="left" alt="Ale-photoshop" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
 </div>
 
-<br><br>
+<br>
 
  ##
  
@@ -33,7 +32,6 @@
   <a href="https://instagram.com/alexiarc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alexiacazale7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aléxia-ravanelli-cazale-2215b0266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
 
 <div>
