@@ -8,7 +8,7 @@
   <img  align="left" height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=6&theme=radical">
   <img align="right" alt="" height="190px" src="./src/img.gif">
 </div>
-
+  <br>
   
   ### Minhas Habilidades 👀
   <div style="display: inline_block"><br>
