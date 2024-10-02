@@ -3,9 +3,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F729A7&width=435&lines=Ol%C3%A1!+Eu+sou+a+Al%C3%A9xia+Cazale+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
-<img height="190px" align="right" src="./src/img.gif" alt="gif">
-<img height="200cm" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=6&theme=radical"><br><br>
+<div style="display: flex; align-items: center;">
+  <img height="190px" align="right" src="./src/img.gif" alt="gif">
+  <img height="200cm" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=6&theme=radical"><br><br>
+</div>
 
+<br><br><br><br>
  ##
   
   ### Minhas Habilidades 👀
