@@ -5,9 +5,9 @@
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/AlexiaCazale">
-    <img height="200cm" margin-right: "20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=6&theme=radical">
+    <img height="200cm"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=6&theme=radical">
   </a>
-  <img height="190px" src="./src/img.gif" alt="">
+  <img height="190px"  align="right" src="./src/img.gif" alt="gif">
 </div>
 
   <br>
