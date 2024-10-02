@@ -2,7 +2,7 @@
 <div style="text-align: center;" align="center">
   <a style="text-align: center;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0055F7&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Al%C3%A9xia+%F0%9F%99%8C" alt="Typing SVG" /></a>
   <br>
-  <img height="190px" width="150px" src="./src/img.gif" alt="">
+  <img width="150px" src="./src/img.gif" alt="">
   <br>
   <a href="https://github.com/AlexiaCazale">
     <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=6&theme=radical">
