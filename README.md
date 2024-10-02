@@ -26,6 +26,13 @@
   <a href = "mailto:alexiacazale7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aléxia-ravanelli-cazale-2215b0266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Snake animation](https://github.com/AlexiaCazale/AlexiaCazale/blob/output/github-contribution-grid-snake.svg)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexiaCazale/AlexiaCazale/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexiaCazale/AlexiaCazale/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://AlexiaCazale/AlexiaCazale/AlexiaCazale/output/github-contribution-grid-snake.svg">
+</picture>
+
+/*![Snake animation](https://github.com/AlexiaCazale/AlexiaCazale/blob/output/github-contribution-grid-snake.svg)*/
 
 </div>
