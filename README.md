@@ -3,11 +3,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F729A7&width=435&lines=Ol%C3%A1!+Eu+sou+a+Al%C3%A9xia+Cazale+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
-<div>
-  <a href = "https://github.com/AlexiaCazale">
-  <img  align="left" height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=6&theme=radical">
-  <img align="right" alt="" height="190px" src="./src/img.gif">
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/AlexiaCazale">
+    <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=6&theme=radical">
+  </a>
+  <img height="190px" src="./src/img.gif" alt="">
 </div>
+
   <br>
   
   ### Minhas Habilidades 👀
