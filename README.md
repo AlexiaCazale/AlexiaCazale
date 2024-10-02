@@ -23,6 +23,8 @@
   <img align="left" alt="Ale-photoshop" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
 </div>
 
+<br><br>
+
  ##
  
 <div style="align-items: center;" align="center"> 
