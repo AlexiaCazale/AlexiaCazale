@@ -4,8 +4,8 @@
 </div>
 
 
-  <img height="200cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=6&theme=radical">
-  <img height="190px"  align="right" src="./src/img.gif" alt="gif">
+  <img height="200cm" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=6&theme=radical">
+  <img height="190px" align="right" src="./src/img.gif" alt="gif">
 
   
   ### Minhas Habilidades 👀
