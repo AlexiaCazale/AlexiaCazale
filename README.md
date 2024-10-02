@@ -5,13 +5,12 @@
 
 <div style="display: flex; align-items: center;">
   <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=6&theme=radical">
-  <img height="190px" src="./src/img.gif" alt="gif">
 </div>
 
  ##
   
   ### Minhas Habilidades 👀
-<div style="align-items: center;" align="center"><br>
+<div style="align-items: left;" align="center"><br>
   <img align="center" alt="Ale-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ale-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ale-php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -23,6 +22,7 @@
   <img align="center" alt="Ale-photoshop" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
 </div>
   
+  <img height="190px" align="right" src="./src/img.gif" alt="gif">
  ##
  
 <div style="align-items: center;" align="center"> 
