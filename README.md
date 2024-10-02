@@ -28,5 +28,4 @@
 
 ![Snake animation](https://github.com/AlexiaCazale/AlexiaCazale/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=AlexiaCazale&repo=AlexiaCazale&theme=react)](https://github.com/AlexiaCazale/AlexiaCazale)
 </div>
