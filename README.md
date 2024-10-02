@@ -5,7 +5,7 @@
 
 <div style="display: flex; align-items: center;">
   <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=6&theme=radical"><br><br>
-  <img height="190px" src="./src/img.gif" alt="gif">
+  <img height="190px" align="right" src="./src/img.gif" alt="gif">
 </div>
 
  ##
