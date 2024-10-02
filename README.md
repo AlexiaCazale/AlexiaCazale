@@ -4,6 +4,7 @@
   <a href = "https://github.com/AlexiaCazale">
   <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=6&theme=radical">
 
+<img align="right" alt="" height="190px" src="./src/img.gif">
   
   ### Minhas Habilidades 👀
   <div style="display: inline_block"><br>
@@ -18,7 +19,6 @@
     <img align="center" alt="Ale-photoshop" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
   </div>
   
-<img align="right" alt="" height="190px" src="./src/img.gif">
 </div>
  ##
  
