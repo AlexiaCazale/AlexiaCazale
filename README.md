@@ -1,6 +1,6 @@
 
 <div style="text-align: center;" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F729A7&width=435&lines=Ol%C3%A1!+Eu+sou+a+Al%C3%A9xia+Cazale+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0055F7&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Al%C3%A9xia+%F0%9F%99%8C" alt="Typing SVG" /></a>
   <br>
   <a href="https://github.com/AlexiaCazale">
     <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=6&theme=radical">
@@ -9,9 +9,8 @@
 </div>
 
 <br>
- ##
-  
-  ### Minhas Habilidades 👀
+
+<h3 style="text-align: center;">Minhas Habilidades 👀 </h3>
 <div style="align-items: center;" align="center"><br>
   <img align="left" alt="Ale-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="Ale-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -23,8 +22,6 @@
   <img align="left" alt="Ale-figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="left" alt="Ale-photoshop" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
 </div>
-
-<br>
 
  ##
  
