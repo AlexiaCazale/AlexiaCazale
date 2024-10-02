@@ -5,15 +5,13 @@
   <a href="https://github.com/AlexiaCazale">
     <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&langs_count=6&theme=radical">
   </a>
-  <img height="190px" src="./src/img.gif" alt="">
+  <img height="190px" border-radius="15px" src="./src/img.gif" alt="">
 </div>
 
   ##
 
- <br>
-
  ### Minhas Habilidades 👀
-<div style="align-items: left;" align="left"><br>
+<div style="align-items: left;" align="left">
   <img align="left" alt="Ale-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="Ale-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="left" alt="Ale-php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -25,9 +23,8 @@
   <img align="left" alt="Ale-photoshop" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
 </div>
 
+<br><br>
  ##
-
- <br>
  
 <div style="align-items: center;" align="center"> 
   <a href="https://instagram.com/alexiarc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
