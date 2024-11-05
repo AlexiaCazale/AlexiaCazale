@@ -13,6 +13,8 @@
   ##
 
  ### Minhas Habilidades 👀
+ <br>
+ 
 <div style="align-items: left;" align="left">
   <img align="left" alt="Ale-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="Ale-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -25,14 +27,17 @@
   <img align="left" alt="Ale-photoshop" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
 </div>
 
-<br><br>
+<br><br><br>
+
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlexiaCazale" alt="AlexiaCazale" /></a> </p>
+
  ##
- 
-<div style="align-items: center;" align="center"> 
+  
+  ### Entre em contato 🫡
+<br>
   <a href="https://instagram.com/alexiarc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alexiacazale7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aléxia-ravanelli-cazale-2215b0266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 <div>
   <picture align="center">
