@@ -6,7 +6,7 @@
   <img width="450px" src="./src/img.gif" alt="">
   <br><br>
   <a href="https://github.com/AlexiaCazale">
-    <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&theme=dracula">
+    <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&theme=gruvbox">
   </a>
 </div>
 
@@ -30,7 +30,7 @@
 
 <br><br><br>
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlexiaCazale&theme=dracula" alt="AlexiaCazale" /></a> </p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlexiaCazale&theme=gruvbox" alt="AlexiaCazale" /></a> </p>
 
  ##
   
