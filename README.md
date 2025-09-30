@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align: center;" align="center">
-  <img width="450px" src="./src/img.gif" alt="">
+  <img width="450px" src="./src/img.jpeg" alt="">
   <br><br>
   <a href="https://github.com/AlexiaCazale">
     <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&theme=gruvbox">
