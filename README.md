@@ -5,9 +5,6 @@
 <div style="text-align: center;" align="center">
   <img width="450px" src="./src/img.jpeg" alt="">
   <br><br>
-  <a href="https://github.com/AlexiaCazale">
-    <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&theme=gruvbox">
-  </a>
 </div>
 
   ##
@@ -30,11 +27,16 @@
 
 <br><br><br>
 
+ <a href="https://github.com/AlexiaCazale" style="display: flex; gap: '10px';">
+    <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCazale&layout=donut&theme=gruvbox">
+   <img src="https://github-readme-stats.vercel.app/api?username=AlexiaCazale&theme=gruvbox&commits_year=2025"/>
+  </a>
+
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlexiaCazale&theme=gruvbox" alt="AlexiaCazale" /></a> </p>
 
  ##
   
-  ### Entre em contato 🫡
+  ### Entre em contato 🤳
 <br>
   <a href="https://instagram.com/alexiarc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alexiacazale7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
